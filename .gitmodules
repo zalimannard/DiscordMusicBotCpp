@@ -1,0 +1,3 @@
+[submodule "include/include/sleepy-discord"]
+	path = include/include/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord
